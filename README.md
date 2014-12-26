@@ -5,7 +5,7 @@ This code is made to support a serie of blog posts I wrote in french.
 - [Le jeu de la vie dans 7 langages différents](http://lkdjiin.github.io/blog/2014/10/08/le-jeu-de-la-vie-dans-sept-langages-differents/)
 - [Julia - partie 1](http://lkdjiin.github.io/blog/2014/12/23/le-jeu-de-la-vie-en-julia-partie-1/)
 - [Julia - partie 2](http://lkdjiin.github.io/blog/2014/12/24/le-jeu-de-la-vie-en-julia-partie-2/)
-- [Julia - partie 3]()
+- [Julia - partie 3](http://lkdjiin.github.io/blog/2014/12/26/le-jeu-de-la-vie-en-julia-partie-3/)
 
 ## Installation
 
@@ -13,7 +13,13 @@ Clone this repository.
 
 ## Usage
 
+To run the game:
+
     julia main.jl
+
+To run the tests:
+
+    julia test.jl
 
 ## License
 
