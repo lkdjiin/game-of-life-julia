@@ -13,4 +13,4 @@ function main(height, width, number_of_generation, sym="@", noll=" ")
     end
 end
 
-main(20, 80, 20, "@", " ")
+main(20, 80, 1, "@", " ")
